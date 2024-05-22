@@ -1,0 +1,9 @@
+{
+  "title": "Game of Thrones",
+  "author": "HBO",
+  "genre": ["Fantasy", "Drama", "Action", "Adventure"],
+  "episodes": 73,
+  "releaseYear": 2011,
+  "description": "A \"Trónok harca\" egy fantasy sorozat, amely George R.R. Martin \"A tűz és jég dala\" című regényciklusán alapul. A történet a Westeros nevű fiktív világban játszódik, ahol kilenc nemes család küzd a hatalomért és a Westeros földjei feletti ellenőrzésért. A sorozat középpontjában a Vas Trón áll, amely a hatalom szimbóluma. A történet tele van politikai intrikákkal, cselszövésekkel, háborúkkal és árulással. Azonban a Westerosban nem csak a nemesek harcolnak egymással, hanem egy ősi ellenség is ébred, amely évezredek óta álomban volt. Ez a \"Sötét Éjszaka\" nevű fenyegetés veszélyezteti az egész világot, és a nemes családoknak össze kell fogniuk, hogy megvédjék Westeros-t. A sorozatban számos karakter és szál található, amelyek összefonódnak egymással. A Trónok harca híres a váratlan fordulatokról, a karakterek mélységéről és a komplex történetmesélésről.",
+  "image": "./assets/game-of-thrones.webp"
+}

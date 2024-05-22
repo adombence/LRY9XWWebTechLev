@@ -1,0 +1,9 @@
+{
+  "title": "Big Bang Theory",
+  "author": "CBS",
+  "genre": ["comedy"],
+  "episodes": 279,
+  "releaseYear": 2007,
+  "description": "A történet a kaliforniai Pasadena városában játszódik. Itt él egy bérelt lakásban a két főszereplő Caltech-tudós: a kísérleti fizikus Leonard Hofstadter és az elméleti fizikus Sheldon Cooper. Két legjobb barátjuk is állandó szereplője a sorozatnak: Howard és Rajesh. Howard gépészmérnök és Rajesh asztrofizikus a Caltechen. Életüket mindjárt az első epizódban felforgatja egy csinos, szőke pincérlány, Penny érkezése a szemben lévő lakásba. A négy zseni gondolkodásmódja és „kockasága” merőben eltér az átlagos életet élő emberek életvitelétől, ami a poénok egyik fő forrásává válik A sorozat fő értékét a humoron túl az adja, hogy két eltérő közösséget egyfajta kultúr-relativista módon képes bemutatni. Penny az egyik epizódban jut arra a felismerésre, hogy Sheldonék a maguk világában ugyanolyan menők, mint az ő közönséges világában a sztárok. Leonardot egészen szerethető figuraként sikerül eladni, és Sheldon minden egzotikusságával egyetemben részben mindenkinek elfogadható főszereplő.",
+  "image": "./assets/big-bang-theory.jpg"
+}

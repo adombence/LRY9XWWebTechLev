@@ -1,0 +1,24 @@
+{
+  "articles": [
+    {
+      "title": "Fallout",
+      "link": "article.html?article=fallout"
+    },
+    {
+      "title": "Game of Thrones",
+      "link": "article.html?article=game-of-thrones"
+    },
+    {
+      "title": "Shogun",
+      "link": "article.html?article=shogun"
+    },
+    {
+      "title": "Big Bang Theory",
+      "link": "article.html?article=big-bang-theory"
+    },
+    {
+      "title": "Twin Peaks",
+      "link": "article.html?article=twin-peaks"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "title": "A Shogun",
+  "author": "FX",
+  "genre": ["Action", "Adventure", "Drama", "History", "War"],
+  "episodes": 10,
+  "releaseYear": 2024,
+  "description": "A Shogun egy akciódús kalanddráma, amely történelmi Japánban játszódik háborús időkben. Kövesd egy hatalmas shogun útját, ahogy navigál a bonyolult politikai tájékon és harcol a hatalomért. Ez a 10 izgalmas epizódos sorozat elrepít téged a szamurájok, az erkölcs és az intrika világába.",
+  "image": "./assets/shogun.webp"
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Fallout",
+  "author": "Amazon Studios",
+  "genre": ["Drama", "post-apocalyptic", "sci-fi western"],
+  "episodes": 8,
+  "releaseYear": 2024,
+  "description": "A sorozat egy alternatív valóság jövőjében játszódik, ahol az általunk ismert történelem nagyjából az 1950-es években más irányt vett. Egy retrofuturisztikus, az ötvenes évek esztétikáját és annak technológiáját a végletekig fejlesztő világban 2077-ben kitört a Nagy Háború, a nyersanyagokért vívott küzdelem miatt. Mindössze egy nap alatt sikerült a Földet radioaktív pusztasággá változtatni. A túlélők egy része az amerikai kormány közreműködésével épített menedékben vészelte át a csapásokat. 2296-ban egy fiatal nőnek, Lucy MacLean-nek elhagyja addigi otthonát, a 33-as menedéket, miután egy esküvői ceremónia közben fosztogatók törnek be, és elrabolják az apját. Miközben úton van, egy ghúl fejvadász és egykori filmszínész, Cooper Howard is keresztezi az útját, ahogy az Acél Testvériségének egy ambíciózus kadétja, Maximus is - mindketten az Enklávé egy szökött tudósát keresik, mert a birtokában van valami, ami megváltoztathatja a világ sorsát.",
+  "image": "./assets/fallout.webp"
+}

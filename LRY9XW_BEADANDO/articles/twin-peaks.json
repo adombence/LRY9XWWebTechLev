@@ -1,0 +1,9 @@
+{
+  "title": "Twin Peaks",
+  "author": "ABC",
+  "genre": ["Drama", "Mystery", "Thriller"],
+  "episodes": 48,
+  "releaseYear": 1990,
+  "description": "A kis északnyugat-washingtoni kisváros, Twin Peaks élete teljesen felfordul, miután a folyóparton egy műanyag zsákban megtalálják a gimis szépségkirálynő Laura Palmer holttestét. Miután Laura egyik iskolatársa, Ronette Pulaski kómába esik, Dale Cooper különleges ügynököt bízzák meg az esetek felderítésével. Cooper szerint Laura halála kapcsolatban állhat egy Theresa Banks nevű lány egy évvel korábbi halálával. Cooper Laura egyik körme alatt felfedez egy kis darab papírt, melyen egy R betű áll. Elmondja Truman seriffnek, hogy Theresa Banks körme alatt egy T betűt talált. Nincs kétség, ugyanaz a gyilkos...",
+  "image": "./assets/twin-peaks.jpg"
+}
