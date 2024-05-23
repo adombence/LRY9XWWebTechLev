@@ -30,11 +30,7 @@ $(document).ready(function () {
   const articleName = getArticleName();
 
   $.getJSON(`./articles/${articleName}.json`, function (data) {
-    // Process the JSON data here
-
-
     displayArticle(data);
-    //displayMinsToRead();
   });
 
   $.getJSON('./articles/articles.json', function (data) {

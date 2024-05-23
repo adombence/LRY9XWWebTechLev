@@ -2,23 +2,28 @@
   "articles": [
     {
       "title": "Fallout",
-      "link": "article.html?article=fallout"
+      "link": "article.html?article=fallout",
+      "image": "assets/fallout.webp"
     },
     {
       "title": "Game of Thrones",
-      "link": "article.html?article=game-of-thrones"
+      "link": "article.html?article=game-of-thrones",
+      "image": "assets/game-of-thrones.webp"
     },
     {
       "title": "Shogun",
-      "link": "article.html?article=shogun"
+      "link": "article.html?article=shogun",
+      "image": "assets/shogun.webp"
     },
     {
       "title": "Big Bang Theory",
-      "link": "article.html?article=big-bang-theory"
+      "link": "article.html?article=big-bang-theory",
+      "image": "assets/big-bang-theory.jpg"
     },
     {
       "title": "Twin Peaks",
-      "link": "article.html?article=twin-peaks"
+      "link": "article.html?article=twin-peaks",
+      "image": "assets/twin-peaks.jpg"
     }
   ]
 }

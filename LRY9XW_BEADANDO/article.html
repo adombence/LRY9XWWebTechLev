@@ -6,25 +6,16 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Article Title</title>
 
-  <style>*,*::before,*::after{box-sizing:border-box;}*{margin:0;}body{line-height:1.5;-webkit-font-smoothing:antialiased;}img,picture,video,canvas,svg{display:block;max-width:100%;}input,button,textarea,select{font:inherit;}p,h1,h2,h3,h4,h5,h6{overflow-wrap:break-word;}</style>
+  <style>*,*::before,*::after{box-sizing:border-box;}*{margin:0;}body{min-height:100vh;line-height:1.5;-webkit-font-smoothing:antialiased;background-color: #f2f2f2;}img,picture,video,canvas,svg{display:block;max-width:100%;}input,button,textarea,select{font:inherit;}p,h1,h2,h3,h4,h5,h6{overflow-wrap:break-word;}</style>
 
   <script src="libs/jquery-3.7.1.min.js"></script>
-  <link rel="stylesheet" href="src/article.css">
-  <link rel="stylesheet" href="src/header.css">
+  <script src="src/base.js"></script>
 
+  <link rel="stylesheet" href="src/article.css">
+  <link rel="stylesheet" href="src/base.css">
 </head>
 
 <body>
-  <header>
-    <h1>LRY9XW - Beadandó</h1>
-    <nav>
-      <ul>
-        <li><a href="index.html">Kezdőlap</a></li>
-        <li><a href="articles.html">Sorozatok</a></li>
-        <li><a href="contact.html">Kapcsolat</a></li>
-      </ul>
-    </nav>
-  </header>
   <main>
     <section class="article-container">
       <section class="article-header">
@@ -34,13 +25,21 @@
   
       </article>
     </section>
-    <aside class="other-articles">
-      <h2>További sorozatok</h2>
-      <ul></ul>
+    <aside>
+      <section class="other-articles">
+        <h2>További sorozatok</h2>
+        <ul></ul>
+      </section>
+      <section class="comments">
+        <h2>Hozzászólások</h2>
+        <button id="add-comment">Új hozzászólás</button>
+        <ul></ul>
+      </section>
     </aside>
   </main>
 
   <script src="src/article.js"></script>
+  <script src="src/comment.js"></script>
 </body>
 
 </html>

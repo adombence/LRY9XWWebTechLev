@@ -20,3 +20,36 @@ header {
     gap: 20px;
   }
 }
+
+.hero {
+  background-image: url('../assets/hero.jpg');
+  width: 100vw;
+  max-width: 100%;
+  min-height: 100px;
+  height: 200px;
+  display: flex;
+  background-size: contain;
+}
+
+
+
+footer {
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  color: #f2f2f2;
+  padding: 20px;
+  text-align: center;
+  font-size: 16px;
+  background: #333;
+}
+
+a {
+  margin-top: 20px;
+  width: fit-content;
+}
+
+a > img {
+  width: 30px;
+  height: 30px;
+}
